@@ -1,5 +1,5 @@
 
-# Expense Tracker Web Application
+# Expense Tracker Website
 
 ## Introduction
 
@@ -59,7 +59,6 @@ The application will start running at `http://localhost:3000`.
 Check out the live demo of the Expense Tracker [here](https://expense-tracker-in.netlify.app/).
 
 ## Screenshots
-
 
 ![Screenshot 2024-09-10 195122](https://github.com/user-attachments/assets/16c2e12b-e138-4815-8fe9-587b44a30221)
 
