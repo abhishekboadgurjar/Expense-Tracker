@@ -46,7 +46,7 @@ The project structure follows a typical React project layout:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/expense-tracker.git
+git clone https://github.com/abhishekboadgurjar/expense-tracker.git
 cd expense-tracker
 npm install
 npm start
@@ -74,4 +74,4 @@ The Expense Tracker project demonstrates how to manage lists and state effective
 
 ### Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
